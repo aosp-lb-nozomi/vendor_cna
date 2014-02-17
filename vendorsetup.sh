@@ -14,3 +14,5 @@ add_lunch_combo cna_d2tmo-userdebug
 add_lunch_combo cna_d2usc-userdebug
 add_lunch_combo cna_d2vzw-userdebug
 add_lunch_combo cna_i9300-userdebug
+add_lunch_combo cna_nozomi-userdebug
+add_lunch_combo cna_aoba-userdebug
