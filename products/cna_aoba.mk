@@ -1,4 +1,4 @@
-$(call inherit-product, device/sony/nozomi/full_aoba.mk)
+$(call inherit-product, device/sony/aoba/full_aoba.mk)
 
 # Inherit cna common GSM stuff.
 $(call inherit-product, vendor/cma/config/gsm.mk)
