@@ -1,7 +1,7 @@
 $(call inherit-product, device/sony/nozomi/full_nozomi.mk)
 
 # Inherit cna common GSM stuff.
-$(call inherit-product, vendor/cma/config/gsm.mk)
+$(call inherit-product, vendor/cna/config/gsm.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/cna/config/common_full_phone.mk)
